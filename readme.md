@@ -12,36 +12,36 @@ These sites are not available on the clearnet - [Download the Tor Browser free](
 #### Darknet Markets
 
 * [DarkDock Market](http://ddockkkwl45kmnnd7b332qu4h3ov66e3zy2ytrpfarpswvtldcx3cvad.onion) - `http://ddockkkwl45kmnnd7b332qu4h3ov66e3zy2ytrpfarpswvtldcx3cvad.onion`
-* [Nexus Market](http://nexusampxh4qh3fb4f664njzhtk7tar2ems2qgzsvjivibr7vsguwtqd.onion) - `http://nexusampxh4qh3fb4f664njzhtk7tar2ems2qgzsvjivibr7vsguwtqd.onion`
+* [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
 * [Abacus Market](http://abacusuxgckctjrvqtvjys6kzvwfn2rl2nayvabbsa7gse3c45imfrid.onion) - `http://abacusuxgckctjrvqtvjys6kzvwfn2rl2nayvabbsa7gse3c45imfrid.onion`
-* [MGM Grand Market](http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion) - `http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion`
-* [Torzon Market](http://qbdiuib3anw4pwbajofwemotxpkiahnwije7d47ghocpschwshmts3yd.onion) - `http://qbdiuib3anw4pwbajofwemotxpkiahnwije7d47ghocpschwshmts3yd.onion`
-* [Incognito Market](http://incognifa2raciosuq7keui3ynbgrpgisi6almaheo2ll4egofm3iwad.onion) - `http://incognifa2raciosuq7keui3ynbgrpgisi6almaheo2ll4egofm3iwad.onion`
-* [DrugHub Market](http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion) - `http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion`
+* [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion`
+* [Torzon Market](http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion) - `http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion`
+* [Incognito Market](http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion) - `http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion`
+* [DrugHub Market](http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion) - `http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion`
 * [Ares Market](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion) - `http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion`
-* [SuperMarket](http://ddosbayodb44dzp3ibla5blkhng4a5543m77uqja5vmsddwynic4styd.onion) - `http://ddosbayodb44dzp3ibla5blkhng4a5543m77uqja5vmsddwynic4styd.onion`
-* [Dark Matter Market](http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion) - `http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion`
+* [SuperMarket](http://superxcceybzhdr6x6xvjslakt53hfcyujnku4g4zy7q6zvvjux3i3id.onion) - `http://superxcceybzhdr6x6xvjslakt53hfcyujnku4g4zy7q6zvvjux3i3id.onion`
+* [Dark Matter Market](http://darkma3j6xgdwqzlc2ijnopkgegzqappavrrwk436gwox5gn5kuj6tyd.onion) - `http://darkma3j6xgdwqzlc2ijnopkgegzqappavrrwk436gwox5gn5kuj6tyd.onion`
 * [Kerberos Market](http://kerberozo4ijsbkohel45jgqnipkvxsflranm72zkwnei6gtowpvutyd.onion) - `http://kerberozo4ijsbkohel45jgqnipkvxsflranm72zkwnei6gtowpvutyd.onion`
-* [Fish Market](http://gofish7vejdpnherlvlexdo5eovhknhyyfkzzqk6eu4fosoibzd6asyd.onion) - `http://gofish7vejdpnherlvlexdo5eovhknhyyfkzzqk6eu4fosoibzd6asyd.onion`
-* [We The North (Canada)](http://hn2paw7tavtwjl3usqcz25qc7cuwtd6udkyclhsocrelfr3lqlrrmgid.onion) - `http://hn2paw7tavtwjl3usqcz25qc7cuwtd6udkyclhsocrelfr3lqlrrmgid.onion`
-* [Flugsvamp 4.0 (Sweden)](http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion) - `http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion`
+* [Fish Market](http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion) - `http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion`
+* [We The North (Canada)](http://hn2paw7zmo6ovpaznn5ad7ygzvbhgxem4fru6mpa6v7q7sbktwstp6yd.onion) - `http://hn2paw7zmo6ovpaznn5ad7ygzvbhgxem4fru6mpa6v7q7sbktwstp6yd.onion`
+* [Flugsvamp 4.0 (Sweden)](http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion) - `http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion`
 * [Mega Market (Russia)](http://mega555la2l35altkhky65cuoks3escuxd7qyveozy5gtm2a4w5eu7qd.onion) - `http://mega555la2l35altkhky65cuoks3escuxd7qyveozy5gtm2a4w5eu7qd.onion`
 
 
 #### Vendor Stores
 
-* [BidenCash](http://bidencptvqtzljbikekxysug6bqoflxeg66wvkw4fwzdvkijupkiufyd.onion) - `http://bidencptvqtzljbikekxysug6bqoflxeg66wvkw4fwzdvkijupkiufyd.onion`
+* [BidenCash](http://bidenccvghshi3jx4pu52jkr3tr5vebwsy7nshoshaadqhrfuf3iabqd.onion) - `http://bidenccvghshi3jx4pu52jkr3tr5vebwsy7nshoshaadqhrfuf3iabqd.onion`
 * [GammaGoblin](http://mb2lgzlxiwx3gnev633saiepzkmgam56ydpqf4z7rvwtbs6itghfqeid.onion) - `http://mb2lgzlxiwx3gnev633saiepzkmgam56ydpqf4z7rvwtbs6itghfqeid.onion`
 * [SmokersCo](http://smoker2pb7hshxebiifyleiofablbjaigycpbpvppyehcm5ps7sc7jyd.onion) - `http://smoker2pb7hshxebiifyleiofablbjaigycpbpvppyehcm5ps7sc7jyd.onion`
-* [BriansClub](http://brianscjvlmkbr67uon3f2iyeumcnspbv777les7bctljrlksq7dh2ad.onion) - `http://brianscjvlmkbr67uon3f2iyeumcnspbv777les7bctljrlksq7dh2ad.onion`
+* [BriansClub](http://brianslzqilxbjdpqidervejxeus55trednzyi5voayzl4tpett7u2ad.onion) - `http://brianslzqilxbjdpqidervejxeus55trednzyi5voayzl4tpett7u2ad.onion`
 * [The Spitzenkörper](http://spitzgblkde6uskdj7bon7fevke7sompyoxb44mwfl57immd2r7dbaid.onion) - `http://spitzgblkde6uskdj7bon7fevke7sompyoxb44mwfl57immd2r7dbaid.onion`
-* [Tribe Seuss](http://eisrgs5hxbw6h2eunbliqhbt7qcou2ofmoqj7syr4ezhrb3oizh5m6ad.onion) - `http://eisrgs5hxbw6h2eunbliqhbt7qcou2ofmoqj7syr4ezhrb3oizh5m6ad.onion`
+* [Tribe Seuss](http://eisrgs2gltxr3v6zwby3louej4ive5e2nj4e5weton5sdzvyut7vz3qd.onion) - `http://eisrgs2gltxr3v6zwby3louej4ive5e2nj4e5weton5sdzvyut7vz3qd.onion`
 
 
 #### Cryptocurrency Exchanges
 
 * [Exch Exchange](http://hszyoqepaqkzx7xi3yc5u7qjbkk7iznl6llndbos2lhedpfcxx3zanad.onion) - `http://hszyoqepaqkzx7xi3yc5u7qjbkk7iznl6llndbos2lhedpfcxx3zanad.onion`
-* [Swp.cx](http://uicrmri3fyv3qg4drdapwdwghb6fnr2awhujrgcxatxdozzljplqw2id.onion) - `http://uicrmri3fyv3qg4drdapwdwghb6fnr2awhujrgcxatxdozzljplqw2id.onion`
+* [Swp.cx](http://uicrmrtwpfy4y5kddhlwsbsxzykolx73ure5dhd5dst3pc77lfcmm7id.onion) - `http://uicrmrtwpfy4y5kddhlwsbsxzykolx73ure5dhd5dst3pc77lfcmm7id.onion`
 * [Xchange.me](http://xmxmrjeihkicnuuwrklllcy7tuonvxxqw3fdrx62htrjhcha6vxtywad.onion) - `http://xmxmrjeihkicnuuwrklllcy7tuonvxxqw3fdrx62htrjhcha6vxtywad.onion`
 * [Infinity Exchanger](http://exchanger.dhme3vnfeleniirt5nxuhpmjsfq5srp44uyq2jyihhnrxus7ibfqhiqd.onion) - `http://exchanger.dhme3vnfeleniirt5nxuhpmjsfq5srp44uyq2jyihhnrxus7ibfqhiqd.onion`
 
